@@ -419,7 +419,7 @@ const projectDetails = {
       'Developed with Django (MVT architecture) and a normalized MySQL relational database schema ensuring ACID compliance.'
     ],
     tech: ['Django', 'Python', 'MySQL', 'Blockchain Concepts', 'SHA-256', 'HTML5/CSS3', 'RBAC Security'],
-    github: 'https://github.com/Premsai19',
+    github: 'https://github.com/Premsai19/Block-chain-project',
     demo: '#'
   },
   editor: {
@@ -434,7 +434,7 @@ const projectDetails = {
       'Integrated active user presence markers showing currently collaborating peers in the document session.'
     ],
     tech: ['JavaScript (ES6+)', 'WebSockets / Real-Time Sync', 'HTML5 ContentEditable', 'CSS3 Glassmorphism'],
-    github: 'https://github.com/Premsai19',
+    github: 'https://github.com/Premsai19/Real-Time-Colabrative-Docuement',
     demo: '#'
   },
   chat: {
@@ -449,7 +449,7 @@ const projectDetails = {
       'Styled with a modern dark theme inspired by Discord and Slack, ensuring responsive layout across smartphones and desktops.'
     ],
     tech: ['JavaScript', 'HTML5', 'CSS3', 'REST APIs', 'Real-Time Messaging'],
-    github: 'https://github.com/Premsai19',
+    github: 'https://github.com/Premsai19/Chat-Application3',
     demo: '#'
   },
   weather: {
@@ -464,7 +464,7 @@ const projectDetails = {
       'Designed responsive metric metric cards optimized for touch gestures and fast initial load speeds.'
     ],
     tech: ['JavaScript', 'REST APIs', 'JSON Parsing', 'Geolocation API', 'CSS Grid/Flexbox'],
-    github: 'https://github.com/Premsai19',
+    github: 'https://github.com/Premsai19/weather',
     demo: '#'
   }
 };
