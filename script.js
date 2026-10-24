@@ -230,10 +230,10 @@ function initTerminal() {
 `,
     about: `
 <span class="text-emerald-400 font-semibold">👤 Prem Sai Chithaluri</span>
-Computer Science Graduate (B.Tech) passionate about Software Engineering & Python Development.
+Computer Science Graduate (B.Tech, 2026) seeking an entry-level opportunity as a Software Engineer or Python Developer.
 Built secure blockchain-backed evidence systems, real-time sync engines, and REST APIs.
 <span class="text-sky-300">Target Role:</span> Software Engineer / Python Developer / Full Stack Web Developer.
-<span class="text-sky-300">Status:</span> 🟢 Graduated • Actively interviewing for immediate full-time software engineering roles.
+<span class="text-sky-300">Status:</span> 🟢 Available for hire • Actively interviewing for entry-level opportunities.
 `,
     skills: `
 <span class="text-sky-400 font-semibold">🛠️ Technical Skill Matrix:</span>
@@ -269,7 +269,7 @@ Built secure blockchain-backed evidence systems, real-time sync engines, and RES
 `,
     education: `
 <span class="text-amber-400 font-semibold">🎓 Academic Qualifications:</span>
-  • <span class="text-white font-medium">B.Tech in Computer Science and Engineering</span> (2022 – 2026 | Graduated)
+  • <span class="text-white font-medium">B.Tech in Computer Science and Engineering</span> (2022 – 2026)
     Malla Reddy College of Engineering | <span class="text-emerald-400 font-semibold">CGPA: 7.7 / 10</span>
   • <span class="text-white font-medium">Intermediate (MPC)</span> (2020 – 2022)
     Narayana Junior College | <span class="text-emerald-400 font-semibold">95.0%</span>
